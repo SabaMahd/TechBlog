@@ -1,0 +1,7 @@
+{
+    "name": "TechBlog",
+    "version": "1.0.0",
+    "description": "tech-blog",
+    "main": "server.js",
+    "scripts": {
+      "test": "jest",
